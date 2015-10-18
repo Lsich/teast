@@ -1,0 +1,8 @@
+5.2.1f1:2.1.0.0
+Android
+W:/Unity 5/Editor/Data/Managed/UnityEngine.dll
+W:/Unity 5/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+W:/Unity 5/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+W:/Unity 5/Editor/Data/Managed/UnityEditor.dll
+W:/Unity 5/Editor/Data\Managed/Mono.Cecil.dll
+W:/Unity 5/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll
